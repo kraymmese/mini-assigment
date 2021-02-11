@@ -1,0 +1,2 @@
+# mini-assigment
+Flutter app
